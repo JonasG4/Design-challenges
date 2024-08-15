@@ -1,0 +1,13 @@
+:root {
+  /* Envelope  */
+  --color-env: hsl(200, 100%, 35%);
+  --color-env-secondary: hsl(199, 93%, 27%);
+  --color-bg: hsl(200, 90%, 81%);
+  --color-flap: hsl(202, 83%, 16%);
+  --color-heart: #e01c1c;
+
+  --env-border-radius: 6px;
+  --env-width: 280px;
+  --env-height: 180px;
+  --heart-width: 50px;
+}
