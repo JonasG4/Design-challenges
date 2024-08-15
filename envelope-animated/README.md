@@ -5,14 +5,17 @@
 #### Importante
 
 **Flap**
+
 Es la mitad de grande que el `envelope` pero la punta cubre por `8px` al `pocket`
 
 **Heart**
+
 Al terminar la animación los corazones no deben mostrarse. No tiene animación de cierre.
 
 #### Conocimiento necesario
 
 **Transform-origen**
+
 El origen de la transformación es el punto alrededor del cual se aplica una transformación. Por ejemplo, el origen de transformación de la función rotar() es el centro de rotación. De hecho, esta propiedad envuelve un par de traducciones alrededor de las otras transformaciones del elemento.
 
 Ejemplo:
